@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/niveditanighojkar/.android/build-cache/12657fc388bebe962877f1cd109c0590db10d5c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/niveditanighojkar/.android/build-cache/4777ad3ca3c41c353e3e1bc0cb3e70ad5041505e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/niveditanighojkar/.android/build-cache/51cf569efcb95a4e43cf01f382f61cf2b388266b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/niveditanighojkar/.android/build-cache/7489c8884a5df7467994ed1ed7b5e61f07f12ee3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/niveditanighojkar/.android/build-cache/a66d39fd728cc5ad21bb0537d04c9d9c54d930fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/niveditanighojkar/.android/build-cache/cb53b8953ea379791f27fc638f1ca111a7384735/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/niveditanighojkar/.android/build-cache/06bad6382358cad25ba688bb5113c6b40c70d4fc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/niveditanighojkar/.android/build-cache/1297e961f41f29b11793646ff974c8f764c66ca7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/niveditanighojkar/.android/build-cache/c0bc8339d8fbe2605f7abfaa5a3eb0cdd9b8e7b3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/niveditanighojkar/.android/build-cache/23d79dff2540634e53bc05ed7e1b26cf171f86df/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.niveditanighojkar.simplecalc.MainActivity
+ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/niveditanighojkar/.android/build-cache/12657fc388bebe962877f1cd109c0590db10d5c9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/niveditanighojkar/.android/build-cache/4777ad3ca3c41c353e3e1bc0cb3e70ad5041505e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/niveditanighojkar/.android/build-cache/51cf569efcb95a4e43cf01f382f61cf2b388266b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/niveditanighojkar/.android/build-cache/7489c8884a5df7467994ed1ed7b5e61f07f12ee3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/niveditanighojkar/.android/build-cache/a66d39fd728cc5ad21bb0537d04c9d9c54d930fb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/niveditanighojkar/.android/build-cache/cb53b8953ea379791f27fc638f1ca111a7384735/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/niveditanighojkar/.android/build-cache/06bad6382358cad25ba688bb5113c6b40c70d4fc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/niveditanighojkar/.android/build-cache/1297e961f41f29b11793646ff974c8f764c66ca7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/niveditanighojkar/.android/build-cache/c0bc8339d8fbe2605f7abfaa5a3eb0cdd9b8e7b3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/niveditanighojkar/.android/build-cache/23d79dff2540634e53bc05ed7e1b26cf171f86df/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/niveditanighojkar/.android/build-cache/12657fc388bebe962877f1cd109c0590db10d5c9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/niveditanighojkar/.android/build-cache/12657fc388bebe962877f1cd109c0590db10d5c9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/niveditanighojkar/.android/build-cache/4777ad3ca3c41c353e3e1bc0cb3e70ad5041505e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/niveditanighojkar/.android/build-cache/51cf569efcb95a4e43cf01f382f61cf2b388266b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/niveditanighojkar/.android/build-cache/7489c8884a5df7467994ed1ed7b5e61f07f12ee3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/niveditanighojkar/.android/build-cache/a66d39fd728cc5ad21bb0537d04c9d9c54d930fb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/niveditanighojkar/.android/build-cache/cb53b8953ea379791f27fc638f1ca111a7384735/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/niveditanighojkar/.android/build-cache/06bad6382358cad25ba688bb5113c6b40c70d4fc/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/niveditanighojkar/.android/build-cache/1297e961f41f29b11793646ff974c8f764c66ca7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/niveditanighojkar/.android/build-cache/c0bc8339d8fbe2605f7abfaa5a3eb0cdd9b8e7b3/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/niveditanighojkar/.android/build-cache/12657fc388bebe962877f1cd109c0590db10d5c9/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/niveditanighojkar/.android/build-cache/12657fc388bebe962877f1cd109c0590db10d5c9/output/AndroidManifest.xml:26:9-47

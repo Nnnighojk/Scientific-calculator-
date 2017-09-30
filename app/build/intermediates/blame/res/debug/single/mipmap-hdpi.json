@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/niveditanighojkar/Desktop/android/SimpleCalc/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/niveditanighojkar/Desktop/android/SimpleCalc/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/niveditanighojkar/Desktop/android/SimpleCalc/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
